@@ -1,0 +1,29 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://yoursite.com
+title: Hannah Gaskins
+email: me@hannahgaskins.com
+author: hannahgaskins
+description: > # "This is my test blog."
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/hannahgaskins
+  - title: github
+    url: https://github.com/hnag409
+  - title: linkedin
+    url: https://www.linkedin.com/in/hannahgaskins

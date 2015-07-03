@@ -1,0 +1,8 @@
+---
+layout: default
+img: giphy copy.gif
+category: Services
+title: The Second Post!<br>ᕕ( ᐛ )ᕗ
+description: |
+---
+  Haters gonna hate emoticon!

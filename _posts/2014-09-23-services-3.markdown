@@ -1,0 +1,8 @@
+---
+layout: default
+img: giphy-2 copy.gif
+category: Services
+title: And the Third Post<br>(─‿‿─)
+description: |
+---
+In this third blog post I am most pleased as my emoticon illustrates [as well as these Japanese Emoticons](http://www.japaneseemoticons.org/mood-japanese-emoticons/happy-japanese-emoticons/), and [(•ˇ‿ˇ•)-→](http://www.i2symbol.com/emoticons/happy).
