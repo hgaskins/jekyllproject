@@ -1,6 +1,6 @@
 ---
 layout: default
-img: giphy-2 copy.gif
+img: internetfun.gif
 category: Services
 title: And the Fourth Post<br> :)
 description: |
